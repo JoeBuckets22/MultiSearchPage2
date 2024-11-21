@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiSearchPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd34662230acacda8a4cf49c038837c653ef2a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffdbc8978d1ffda72c5fb5c295200cccf830edfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiSearchPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiSearchPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
